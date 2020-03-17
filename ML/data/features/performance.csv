@@ -1,0 +1,4 @@
+Classifier,ACC,SPE,SEN,AUC
+SVM,0.920,0.953,0.895,0.975
+Logistic Regression,0.920,0.977,0.877,0.976
+Random Forest,0.890,0.884,0.895,0.960
